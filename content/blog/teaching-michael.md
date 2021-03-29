@@ -29,4 +29,4 @@ type: "featured"
 *italic*
 **bold**
 [link](https://google.com)
-![image](https://images.unsplash.com/photo-1616995942688-6ad1d3ee4a60?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80)
+![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.KpEFcMTHlsHpJScfpo4ahgHaEo%26pid%3DApi&f=1)
